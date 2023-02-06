@@ -1,0 +1,17 @@
+.textCentered {
+  text-align: center;
+}
+
+.darkBack {
+  background-color: black;
+  color: white;
+}
+
+.lightBack {
+  background-color: lightblue;
+}
+
+.wrapper {
+  width: 350px;
+  margin: auto
+}
